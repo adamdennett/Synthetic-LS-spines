@@ -9,13 +9,19 @@ The repository hosted here allows you to download files and documentation relati
 
 You can read more about the technique for creating synthetic spine datasets in this <a href="http://calls.ac.uk/output-entry/a-synthetic-longitudinal-study-dataset-for-england-and-wales/" target="_blank">journal paper</a>. More information can be found in this <a href="http://calls.ac.uk/2014/01/10/synthetic-data-for-the-uk-longitudinal-studies-sylls/" target="_blank">blog post</a> by Dr Adam Dennett.
 
+The following files are available:
+
+<ul>
+ <li><a href="Synthetic-LS-spines/ONS Microdatateachingvariables.pdf" target="_blank"></a> Description of the ONS Census Microdata variables used to create the ONS LS synthetic spine (PDF 420KB)</li>
+ </ul>
+
 Some useful links:
 
 <ul>
  	<li><a href="http://rpubs.com/adam_dennett/80649" target="_blank" rel="noopener">Practical exercise using the spine data</a> (link to Adam Dennett's blog)</li>
  	<li><a href="http://calls.ac.uk/wp-content/uploads/ScriptForLSSpineData.R.zip" target="_blank" rel="noopener">R script used for creating the synthetic spine</a> (ZIP 8KB)</li>
  	<li><a href="http://calls.ac.uk/output-entry/a-synthetic-longitudinal-study-dataset-for-england-and-wales/" target="_blank" rel="noopener">Journal paper about the methodology</a> (open access)</li>
-  <li><a href="http://calls.ac.uk/guides-resources/synthetic-ls-data/" target="_blank">More information about the SYLLS project and the LSs</a>
+  <li><a href="http://calls.ac.uk/guides-resources/synthetic-ls-data/" target="_blank">More information about the SYLLS project and the LSs</a></li>
 </ul>
 
 # NOTE: 
