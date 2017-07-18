@@ -12,7 +12,7 @@ You can read more about the technique for creating synthetic spine datasets in t
 The following files are available:
 
 <ul>
- <li><a href="Synthetic-LS-spines/ONS Microdatateachingvariables.pdf" target="_blank"></a> Description of the ONS Census Microdata variables used to create the ONS LS synthetic spine (PDF 420KB)</li>
+ <li><a href="https://github.com/Fiona-C/Synthetic-LS-spines/blob/master/ONS%20Microdatateachingvariables.pdf" target="_blank"></a> Description of the ONS Census Microdata variables used to create the ONS LS synthetic spine (PDF 420KB)</li>
  </ul>
 
 Some useful links:
