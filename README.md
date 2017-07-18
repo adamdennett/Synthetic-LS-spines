@@ -22,7 +22,7 @@ Some useful links:
  	<li><a href="http://rpubs.com/adam_dennett/80649" target="_blank" rel="noopener">Practical exercise using the spine data</a> (link to Adam Dennett's blog)</li>
  	<li><a href="http://calls.ac.uk/wp-content/uploads/ScriptForLSSpineData.R.zip" target="_blank" rel="noopener">R script used for creating the synthetic spine</a> (ZIP 8KB)</li>
  	<li><a href="http://calls.ac.uk/output-entry/a-synthetic-longitudinal-study-dataset-for-england-and-wales/" target="_blank" rel="noopener">Journal paper about the methodology</a> (open access)</li>
-  <li><a href="http://calls.ac.uk/guides-resources/synthetic-ls-data/" target="_blank">More information about the SYLLS project and the LSs</a></li>
+  <li><a href="http://calls.ac.uk/guides-resources/synthetic-ls-data/" target="_blank">More information about the SYLLS project and the LSs</a>(link to page on CALLS Hub website</li>
 </ul>
 
 # NOTE: 
