@@ -15,6 +15,7 @@ The following files are currently available:
  <li><a href="https://github.com/Fiona-C/Synthetic-LS-spines/raw/386188d3d2c5e9b06e2bb9c2eb6b9bc804538a6a/ONS%20Microdatateachingvariables.pdf" target="_blank">ONS Microdatateachingvariables.pdf</a> - Description of the ONS Census Microdata variables used to create the ONS LS synthetic spine (PDF 420KB)</li>
  <li><a href="https://github.com/Fiona-C/Synthetic-LS-spines/raw/c64bde7fff8eeb72ebe49590a3747a3481431680/SYLLS_Synthetic_ONSLS_Spine_Final_a.xlsx" target="_blank">SYLLS_Synthetic_ONSLS_Spine_Final_a.xlsx</a> - The synthetic ONS LS spine dataset (XLSX 64MB)</li>
  <li><a href="https://github.com/Fiona-C/Synthetic-LS-spines/raw/d65d6e3e749874e35927280ec7bf4a087ad66534/SYLLS_Synthetic_SLS_Spine_updated.xlsx" target="_blank">SYLLS_Synthetic_SLS_Spine_updated.xlsx</a> - The synthetic SLS spine dataset (XLSX 8.9MB)</li>
+ <li><a href="https://github.com/Fiona-C/Synthetic-LS-spines/raw/18a37dbe6988104534629976a1457a32762d01af/NILS%20Synthetic%20Data%20Spine.xlsx" target="_blank"NILS_Synthetic_Data_Spine.xlsx> - The synthetic NILS spine dataset (XLSX 2.08MB)</a>
  </ul>
 
 Some useful links:
@@ -27,8 +28,7 @@ Some useful links:
 </ul>
 
 # NOTE: 
-The datasets contain synthetic data based on the ONS Longitudinal Study for England and Wales (ONS LS) and the Scottish Longitudinal Study (SLS) and do not contain real ONS LS or SLS data. The synthetic datasets have been developed for teaching purposes and for researchers to familiarise themselves with longitudinal data. Real ONS LS microdata are available in safe settings in London, Newport, South Wales and Titchfield in Hampshire. Real SLS microdata are available in the safe setting in Edinburgh. The microdata are never released outside these safe settings. 
-Researchers may apply to use ONS LS data by contacting <a href="mailto:celsius@ucl.ac.uk">CeLSIUS</a>, based at University College London or to use SLS data by contacting <a href="mailto:sls@lscs.ac.uk">SLS-DSU</a>, based at Ladywell House, Edinburgh. The ONS LS and SLS synthetic spines are released under an Open Government Licence agreement.
+The datasets contain synthetic data based on the ONS Longitudinal Study for England and Wales (ONS LS), the Scottish Longitudinal Study (SLS) and the Northern Ireland Longitudinal Study (NILS) and do not contain real ONS LS, SLS or NILS data. The synthetic datasets have been developed for teaching purposes and for researchers to familiarise themselves with longitudinal data. Real ONS LS microdata are available in safe settings in London, Newport, South Wales and Titchfield in Hampshire. Real SLS microdata are available in the safe setting in Edinburgh. Real NILS microdata are available in the safe setting in Belfast. The microdata are never released outside these safe settings. Researchers may apply to use ONS LS data by contacting <a href="mailto:celsius@ucl.ac.uk">CeLSIUS</a>, based at University College London, to use SLS data by contacting <a href="mailto:sls@lscs.ac.uk">SLS-DSU</a>, based at Ladywell House, Edinburgh or to use NILS data by contacting <a href="mailto:rsu@nisra.gov.uk">NILS-RSU</a>, based at Queen's University Belfast. The ONS LS and SLS synthetic spines are released under an Open Government Licence agreement.
 
 
 CeLSIUS, SLS-DSU, NILS-RSU, CALLS Hub and SYLLS are funded by the Economic and Social Research Council (ESRC). For more information please visit the <a href="http://calls.ac.uk" target="_blank">CALLS Hub website</a>.
